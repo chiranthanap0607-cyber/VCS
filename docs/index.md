@@ -1,2 +1,2 @@
 
-[go to setup]{setup.md}
+[go to setup](setup.md)
